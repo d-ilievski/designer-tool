@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+SC:ital,wght@0,400;0,700;1,400;1,700&family=Allura&family=Anton&family=Coiny&family=Copse&family=DM+Serif+Text:ital@0;1&family=Dokdo&family=Electrolize&family=Faster+One&family=Flamenco&family=Krona+One&family=Lobster&family=Londrina+Shadow&family=Lora:wght@400;700&family=Megrim&family=Monoton&family=MuseoModerno:wght@400;700&family=Nanum+Brush+Script&family=New+Rocker&family=Notable&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Orbitron:wght@400;700&family=Oxygen:wght@400;700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Parisienne&family=Permanent+Marker&family=Piedra&family=Playfair+Display:wght@400;700&family=Poiret+One&family=Press+Start+2P&family=Ribeye+Marrow&family=Roboto+Condensed:wght@400;700&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Rubik:ital,wght@0,400;0,700;1,400;1,700&family=Rye&family=Shadows+Into+Light&family=Six+Caps&family=Unica+One&family=Vibes&family=Yellowtail&display=swap");
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
